@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/fragment_alarm.xml" value="0.25" />
+        <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/fragment_detail_view.xml" value="0.25" />
+        <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/fragment_grid.xml" value="0.25" />
+        <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/fragment_user.xml" value="0.25" />
+        <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/menu/bottom_navigation.xml" value="0.25" />
+        <entry key="..\:/Users/msi/Desktop/AndroidFolder/app/src/main/res/layout/activity_find_id.xml" value="0.25" />
+        <entry key="..\:/Users/msi/Desktop/AndroidFolder/app/src/main/res/layout/activity_input_number.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/msi/Desktop/AndroidFolder/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/msi/Desktop/AndroidFolder/app/src/main/res/layout/activity_main.xml" value="0.23854166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
