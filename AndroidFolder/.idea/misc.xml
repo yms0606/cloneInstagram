@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/activity_add_photo.xml" value="0.25" />
+        <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/activity_find_id.xml" value="0.25" />
+        <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/fragment_alarm.xml" value="0.25" />
         <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/fragment_detail_view.xml" value="0.25" />
         <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/fragment_grid.xml" value="0.25" />
         <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/fragment_user.xml" value="0.25" />
+        <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/item_detail.xml" value="0.25" />
+        <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/layout/item_imageview.xml" value="0.25" />
         <entry key="..\:/Users/msi/Desktop/Android/AndroidFolder/app/src/main/res/menu/bottom_navigation.xml" value="0.25" />
         <entry key="..\:/Users/msi/Desktop/AndroidFolder/app/src/main/res/layout/activity_find_id.xml" value="0.25" />
         <entry key="..\:/Users/msi/Desktop/AndroidFolder/app/src/main/res/layout/activity_input_number.xml" value="0.23541666666666666" />

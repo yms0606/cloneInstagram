@@ -65,6 +65,7 @@ class LoginActivity : AppCompatActivity() {
         binding.fackbookLoginButton.setOnClickListener {
             fackbookLogin()
         }
+        moveMain(auth.currentUser)
         //printHashKey(this)
     }
     var googleLoginResult = registerForActivityResult(ActivityResultContracts.StartActivityForResult()){

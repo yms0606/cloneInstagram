@@ -6,17 +6,14 @@
 
     </data>
 
-    <FrameLayout
-        android:background="#c3dd22"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        tools:context=".fragment.DetailViewFragment">
+        android:layout_height="match_parent">
 
-        <!-- TODO: Update blank fragment layout -->
-        <TextView
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/detailview_recyclerview"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="@string/hello_blank_fragment" />
+            android:layout_height="match_parent"/>
 
-    </FrameLayout>
+    </LinearLayout>
 </layout>
